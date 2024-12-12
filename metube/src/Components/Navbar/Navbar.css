@@ -30,3 +30,7 @@ nav{
     outline: 0;
     background: transparent;
 }
+
+.nav-middle .search-box img{
+    width: 15px;
+}
