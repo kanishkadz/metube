@@ -12,3 +12,7 @@ nav{
     width: 2px;
     margin-right: 25px;
 }
+
+.nav-left .logo{
+    width: 130px;
+}
