@@ -56,7 +56,12 @@ const Sidebar = () => {
             </div>
             <hr />
         </div>
-
+        <div className="subscribed-list">
+            <h3>Subscribed</h3>
+            <div className="side-link">
+                <img src={jack} alt="" /> <p>PewDiePie</p>
+            </div>
+        </div>
     </div>
   )
 }
