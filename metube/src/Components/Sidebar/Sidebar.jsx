@@ -61,6 +61,18 @@ const Sidebar = () => {
             <div className="side-link">
                 <img src={jack} alt="" /> <p>PewDiePie</p>
             </div>
+            <div className="side-link">
+                <img src={simon} alt="" /> <p>MrBeast</p>
+            </div>
+            <div className="side-link">
+                <img src={tom} alt="" /> <p>Marshamallow</p>
+            </div>
+            <div className="side-link">
+                <img src={megan} alt="" /> <p>5 Minutes Craft</p>
+            </div>
+            <div className="side-link">
+                <img src={cameron} alt="" /> <p>Lil Nas</p>
+            </div>
         </div>
     </div>
   )
