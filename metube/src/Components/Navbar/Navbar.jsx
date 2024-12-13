@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <nav className='flex-div'>
         <div className="nav-left flex-div">
-            <img className='menu-icon' src={menu_icon} alt="" />
+            <img className='menu-icon' src='/assets/menu.png' alt="Menu Icon" />
             <img className='logo' src={logo} alt="" />
         </div>
 
