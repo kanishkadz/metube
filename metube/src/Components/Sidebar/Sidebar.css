@@ -11,3 +11,11 @@
     width: 20px;
     margin-right: 20px;
 }
+.side-link{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    width: fit-content;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
